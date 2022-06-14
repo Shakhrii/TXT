@@ -1,0 +1,1 @@
+name: Shakhri, surname: Ramaldanova, age: 29, pets_count: 0, future_salary: 500000
