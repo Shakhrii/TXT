@@ -1,1 +1,23 @@
+Bug report
+
+summary: Profile page. The profile photo hasn't been edited
+project: Project1
+component: Module1
+build_version: 1.10
+description
+  str:
+  1) Open the profile page
+  2) Click the Edit button
+  3) Choose the photo from your computer
+  4) Press Ok
+  result: The photo hasn't been edited
+  expected_result: The photo has been uploaded and profile photo has been changed
+priority: Low
+severity: Minor
+status: assigned
+environment: Mac Os Big Sur version 11.1 Safari
+author: Shakhri Ramaldanova
+assigned_to: Shakhri Ramaldaanova
+addition
+  attachment: https://yandex.ru/images/search?from=tabbar&text=%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%20%D0%B4%D0%BE%D0%BD%D1%86%D0%BE&pos=2&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FEZQ4nShXQAEy_XN.jpg&rpt=simage&lr=118515"
 
